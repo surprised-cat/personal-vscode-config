@@ -1,3 +1,14 @@
 {
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "tslint.autoFixOnSave": true,
+    "files.associations": {
+        "*.css": "postcss"
+    },
+    
+    "gitlens.codeLens.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.annotations.file.gutter.format": "${author} ${ago|14-}",
+    "gitlens.blame.file.lineHighlight.locations": [
+        "gutter"
+    ],
 }

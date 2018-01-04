@@ -1,8 +1,19 @@
 {
     "list": [
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "msjsdiag.debugger-for-chrome",
+
+        "eg2.tslint",
+        "shinnn.stylelint",
+
+        "mrmlnc.vscode-stylefmt",
+
+        "mhmadhamster.postcss-language",
+        "abusaidm.html-snippets",
+
         "robertohuertasm.vscode-icons",
         "k--kato.intellij-idea-keybindings",
-        "eamodio.gitlens",
-        "donjayamanne.githistory"
+        "cssho.vscode-svgviewer"
     ]
 }
