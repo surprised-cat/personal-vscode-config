@@ -2,7 +2,8 @@
     "workbench.iconTheme": "vscode-icons",
     "tslint.autoFixOnSave": true,
     "files.associations": {
-        "*.css": "postcss"
+        "*.css": "postcss",
+        ".stylelintrc": "json"
     },
     
     "gitlens.codeLens.enabled": false,
@@ -11,4 +12,5 @@
     "gitlens.blame.file.lineHighlight.locations": [
         "gutter"
     ],
+    "editor.tabSize": 2,
 }
