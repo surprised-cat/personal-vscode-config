@@ -1,6 +1,5 @@
 {
     "list": [
-        "donjayamanne.githistory",
         "eamodio.gitlens",
         "msjsdiag.debugger-for-chrome",
 
@@ -10,7 +9,6 @@
         "mrmlnc.vscode-stylefmt",
 
         "mhmadhamster.postcss-language",
-        "abusaidm.html-snippets",
 
         "robertohuertasm.vscode-icons",
         "k--kato.intellij-idea-keybindings",
